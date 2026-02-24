@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["AI - Engineer", "UI-Design",  "Backend", "Prototyping","Deployment"],
+    strings: ["AI-Engineer", "UI-Design",  "Backend", "Prototyping","Deployment"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
@@ -167,5 +167,6 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
+
 
 
